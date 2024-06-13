@@ -1,0 +1,6 @@
+package com.example.programmatic
+
+data class PropertiesXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX(
+    val chartId: ChartId,
+    val spreadsheetId: SpreadsheetId
+)

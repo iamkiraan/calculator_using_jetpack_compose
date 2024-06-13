@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812067970296",
+    "project_id": "phone-52ba4",
+    "storage_bucket": "phone-52ba4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812067970296:android:9f731f7168b41906876f0d",
+        "android_client_info": {
+          "package_name": "com.example.gmailphone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTOM4NM_4E_9y-900QZ366Y0JC2mG60A0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

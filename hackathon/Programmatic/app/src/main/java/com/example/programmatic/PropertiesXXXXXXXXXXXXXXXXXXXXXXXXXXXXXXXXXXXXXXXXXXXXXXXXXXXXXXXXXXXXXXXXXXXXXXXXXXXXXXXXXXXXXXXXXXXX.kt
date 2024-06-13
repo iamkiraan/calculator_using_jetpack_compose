@@ -1,0 +1,6 @@
+package com.example.programmatic
+
+data class PropertiesXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX(
+    val embeddedObjectSuggestionState: EmbeddedObjectSuggestionStateXX,
+    val positioningSuggestionState: PositioningSuggestionState
+)

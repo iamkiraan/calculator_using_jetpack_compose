@@ -1,0 +1,30 @@
+package com.example.programmatic
+
+data class doceFiles(
+    val auth: Auth,
+    val basePath: String,
+    val baseUrl: String,
+    val batchPath: String,
+    val canonicalName: String,
+    val description: String,
+    val discoveryVersion: String,
+    val documentationLink: String,
+    val fullyEncodeReservedExpansion: Boolean,
+    val icons: Icons,
+    val id: String,
+    val kind: String,
+    val mtlsRootUrl: String,
+    val name: String,
+    val ownerDomain: String,
+    val ownerName: String,
+    val parameters: Parameters,
+    val protocol: String,
+    val resources: Resources,
+    val revision: String,
+    val rootUrl: String,
+    val schemas: Schemas,
+    val servicePath: String,
+    val title: String,
+    val version: String,
+    val version_module: Boolean
+)

@@ -1,0 +1,6 @@
+package com.example.programmatic
+
+data class PropertiesXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX(
+    val paragraphStyle: ParagraphStyleXXX,
+    val paragraphStyleSuggestionState: ParagraphStyleSuggestionStateXX
+)

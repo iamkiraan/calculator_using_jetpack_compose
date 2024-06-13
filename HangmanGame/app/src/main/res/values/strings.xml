@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hangman Game</string>
+
+    <string name="number_description">Number of characters: %1$d</string>
+    <string name="score">Score: %1$d</string>
+
+</resources>

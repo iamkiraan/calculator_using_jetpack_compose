@@ -1,0 +1,6 @@
+package com.example.programmatic
+
+data class PropertiesXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX(
+    val inlineObjectProperties: InlineObjectPropertiesXX,
+    val inlineObjectPropertiesSuggestionState: InlineObjectPropertiesSuggestionStateX
+)

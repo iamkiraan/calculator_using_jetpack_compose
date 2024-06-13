@@ -1,0 +1,5 @@
+package com.example.programmatic
+
+data class PropertiesXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX(
+    val stylesSuggestionStates: StylesSuggestionStates
+)
